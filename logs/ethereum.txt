@@ -268,3 +268,4 @@
 {"error":"{\"Error_GUID\":\"9831433514068513700\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:9831433514068513700}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x5357d27a9"}
 {"jsonrpc":"2.0","id":1,"result":"0x50233ebcc"}
+{"error":"{\"Error_GUID\":\"8922927653132431360\",\"Error\":\"Failed all retries {GUID:8922927653132431360,error:rpc error: code = Unknown desc = unexpected HTTP status code received from server: 500 (Internal Server Error); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
